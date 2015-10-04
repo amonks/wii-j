@@ -1,0 +1,48 @@
+newmtl mt_lb
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_lb.png
+map_Kd mt_lb.png
+map_d mt_lb.png
+newmtl mt_lb_eyeL
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_lb_eyeL.png
+map_Kd mt_lb_eyeL.png
+map_d mt_lb_eyeL.png
+newmtl mt_lb_eyeR
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_lb_eyeR.png
+map_Kd mt_lb_eyeR.png
+map_d mt_lb_eyeR.png
+newmtl mt_lb_mayuL
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_lb_mayuL.png
+map_Kd mt_lb_mayuL.png
+map_d mt_lb_mayuL.png
+newmtl mt_lb_mayuR
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_lb_mayuR.png
+map_Kd mt_lb_mayuR.png
+map_d mt_lb_mayuR.png
+newmtl mt_lb_mouth
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_lb_mouth.png
+map_Kd mt_lb_mouth.png
+map_d mt_lb_mouth.png

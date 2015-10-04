@@ -1,0 +1,48 @@
+newmtl mt_tetra
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_tetra.png
+map_Kd mt_tetra.png
+map_d mt_tetra.png
+newmtl mt_tetra_eyeL
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_tetra_eyeL.png
+map_Kd mt_tetra_eyeL.png
+map_d mt_tetra_eyeL.png
+newmtl mt_tetra_eyeR
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_tetra_eyeR.png
+map_Kd mt_tetra_eyeR.png
+map_d mt_tetra_eyeR.png
+newmtl mt_tetra_mayuL
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_tetra_mayuL.png
+map_Kd mt_tetra_mayuL.png
+map_d mt_tetra_mayuL.png
+newmtl mt_tetra_mayuR
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_tetra_mayuR.png
+map_Kd mt_tetra_mayuR.png
+map_d mt_tetra_mayuR.png
+newmtl mt_tetra_mouth
+Ka 0 0 0
+Kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_tetra_mouth.png
+map_Kd mt_tetra_mouth.png
+map_d mt_tetra_mouth.png
