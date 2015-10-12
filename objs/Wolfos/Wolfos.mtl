@@ -1,0 +1,56 @@
+# Material file for Wolfos.obj
+
+newmtl Claws-Teeth
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.5 0.5 0.5
+	Ka 0.0 0.0 0.0
+	map_Kd claws-teeth.png
+
+newmtl Fur
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.5 0.5 0.5
+	Ka 0.0 0.0 0.0
+	map_Kd Fur.png
+
+newmtl Mouth
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.5 0.5 0.5
+	Ka 0.0 0.0 0.0
+	map_Kd mouth.png
+
+newmtl Nose
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.5 0.5 0.5
+	Ka 0.0 0.0 0.0
+	map_Kd Nose.png
+
+newmtl Tongue
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.5 0.5 0.5
+	Ka 0.0 0.0 0.0
+	map_Kd Tongue.png
+
+newmtl WEye
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.5 0.5 0.5
+	Ka 0.0 0.0 0.0
+	map_Kd Eye.png
+

@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 21.12.2014 19:18:30
+
+newmtl PukupukuMat01
+	Ns 30.000002
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.101961 0.101961 0.101961
+	Ke 0.000000 0.000000 0.000000
+	map_Ka enemy_xx01_Pukupuku_dif.png
+	map_Kd enemy_xx01_Pukupuku_dif.png
+
+newmtl PukupukuMat00
+	Ns 30.000002
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.101961 0.101961 0.101961
+	Ke 0.000000 0.000000 0.000000
+	map_Ka enemy_xx01_Pukupuku_dif.png
+	map_Kd enemy_xx01_Pukupuku_dif.png

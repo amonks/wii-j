@@ -1,0 +1,56 @@
+# Material file for Wolfos.obj
+
+newmtl WEye
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.5 0.5 0.5
+	Ka 0.0 0.0 0.0
+	map_Kd WEye.png
+
+newmtl WFur
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.5 0.5 0.5
+	Ka 0.0 0.0 0.0
+	map_Kd Wfur.png
+
+newmtl Wclaws-teeth
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.5 0.5 0.5
+	Ka 0.0 0.0 0.0
+	map_Kd Wclaws-teeth.png
+
+newmtl Wnose
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.5 0.5 0.5
+	Ka 0.0 0.0 0.0
+	map_Kd Wnose.png
+
+newmtl Wtongue
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.5 0.5 0.5
+	Ka 0.0 0.0 0.0
+	map_Kd Wtongue.png
+
+newmtl wmouth
+	Ns 96
+	d 1
+	illum 2
+	Kd 0.64 0.64 0.64
+	Ks 0.5 0.5 0.5
+	Ka 0.0 0.0 0.0
+	map_Kd Wmouth.png
+
